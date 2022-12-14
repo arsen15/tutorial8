@@ -1,0 +1,11 @@
+httpfaas/FaaSLambdaContext.class
+functions/UploadObject.class
+httpfaas/FaaSHttpRequest.class
+httpfaas/FaaSHttpResponse.class
+saaf/Inspector.class
+saaf/Response.class
+functions/ReadObject.class
+basic/Request.class
+functions/ImageProcessing.class
+httpfaas/FaaSMain.class
+basic/CredentialRetriever.class
